@@ -10,10 +10,10 @@ Currently, two official plugins are available:
 ## Installation and Setup
 
 1. **Clone the repository**
-   ```sh
-   git clone https://github.com/hilla10/acme_web_service.git
-   cd your-repo
-   ```
+```sh
+git clone https://github.com/hilla10/acme_web_service.git
+cd your-repo
+```
 
 Run the following command to install all necessary dependencies:
 
