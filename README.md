@@ -17,13 +17,13 @@ Currently, two official plugins are available:
 
 Run the following command to install all necessary dependencies:
 
-```sh
-npm install
+   ```sh
+   npm install
 
-```
+   ```
 
 Run the following command to Start the development server
 
-```sh
-npm run dev
-```
+   ```sh
+   npm run dev
+   ```
